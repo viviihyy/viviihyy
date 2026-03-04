@@ -23,8 +23,39 @@ Sou estudante do CentroWEG em Desenvolvimento de Sistemas. Estou sempre em busca
 
 ## 💻 Tecnologias & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,arduino,mysql,git,figma,vscode,discord,docker,eclipse,kotlin,linux,maven,notion,postman,spring,tailwind,nodejs&theme=dark" />
+### Linguagens
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,js,html,css&theme=dark" />
+</p>
+
+### Frameworks
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,tailwind&theme=dark" />
+</p>
+
+### Banco de Dados
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+</p>
+
+### DevOps & Sistemas
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=docker,linux,arduino&theme=dark" />
+</p>
+
+### Ferramentas
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=git,maven,postman&theme=dark" />
+</p>
+
+### IDEs
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio&theme=dark" />
+</p>
+
+### Outros
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=figma,notion,discord&theme=dark" />
 </p>
 
 ---
