@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou estudante do CentroWEG em Desenvolvimento de Sistemas. Estou sempre em busca de aprender novas ferramentas. Você encontrará aqui projetos que refletem minha dedicação e evolução como programador.
+Estudante de Desenvolvimento de Sistemas no CentroWEG, com foco em desenvolvimento back-end e em constante evolução para atuar como desenvolvedora Full-Stack. Possuo conhecimentos em Java, Programação Orientada a Objetos (POO), arquitetura em camadas e integração com APIs REST. Experiência com JDBC, MySQL e implementação de operações CRUD. Também tenho familiaridade com HTML, CSS, JavaScript, Git, fundamentos de redes, arquitetura de sistemas e segurança da informação. Sou dedicada e dou o meu máximo para aprender novas tecnologias e evoluir constantemente como desenvolvedora.
 
 ---
 
