@@ -63,7 +63,7 @@ Estudante de Desenvolvimento de Sistemas no CentroWEG, com foco em desenvolvimen
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viihh-77&theme=dark&background=0d1117&ring=6ABF4B&fire=6ABF4B&currStreakNum=6ABF4B" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viviihyy&theme=dark&background=0d1117&ring=6ABF4B&fire=6ABF4B&currStreakNum=6ABF4B" alt="GitHub Streak">
 </p>
 
 <p align="center">
